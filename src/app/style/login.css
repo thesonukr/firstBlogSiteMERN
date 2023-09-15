@@ -1,0 +1,39 @@
+/* CSS for LoginForm */
+  
+  button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  #imz{
+    margin: 10px;
+    margin-left: 400px;
+  }
+  button:hover {
+    background-color: #0056b3;
+  }
+  .welcome{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content:center ;
+  }
+
+  #btn{
+    width: 200px;
+    margin: 19px;
+  }
+  /* .btns{
+    margin-left: auto;
+    margin-right: 1000px;
+  } */
+  #lk{
+    color: white;
+    text-decoration: none;
+  }

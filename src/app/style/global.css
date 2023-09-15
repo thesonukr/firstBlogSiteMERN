@@ -1,0 +1,17 @@
+
+.global{
+    /* background-image: ; */
+    background-image:url('../assets/bc.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@1,8..144,300&display=swap');
+
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
